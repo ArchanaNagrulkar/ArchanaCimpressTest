@@ -1,0 +1,24 @@
+Project URL: http://localhost/archanaTest/public/
+
+Admin Login:
+
+email: archana@gmail.com
+pass: asdf1234
+
+User Login
+
+email: arjun@gmail.com
+pass: asdf1234
+
+
+Created two Roles in Roles Table
+
+id 1 is Admin 
+id 2 is User
+
+
+Please find blog.sql file also incase migration failed.
+
+
+
+
